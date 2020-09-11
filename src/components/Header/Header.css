@@ -1,0 +1,13 @@
+.header__title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__title > h1 {
+  margin-left: 10px;
+}
+
+.header__jobs {
+  color: gray;
+}

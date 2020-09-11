@@ -1,0 +1,23 @@
+.addJob__button {
+  width: 300px;
+}
+
+.addJob__icons > i {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.addJob__icons {
+  width: 100%;
+  margin-bottom: 10px;
+  color: grey;
+}
+
+.addJob__field {
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+}
